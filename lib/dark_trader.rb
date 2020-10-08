@@ -16,3 +16,4 @@ def perform
   puts crypto_scrapper
 end
 
+perform

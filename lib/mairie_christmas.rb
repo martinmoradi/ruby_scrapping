@@ -32,3 +32,5 @@ end
 def perform 
   puts mairie_christmas
 end
+
+perform

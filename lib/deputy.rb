@@ -46,3 +46,5 @@ end
 def perform 
   puts dear_deputy
 end
+
+perform
