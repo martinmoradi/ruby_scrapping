@@ -12,6 +12,7 @@ def crypto_scrapper
   currencies.zip(prices).map { |k, v| { k => v } }
 end
 
-puts crypto_scrapper
+def perform
+  puts crypto_scrapper
+end
 
-# {currency: k, price: v}
